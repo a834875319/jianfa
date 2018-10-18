@@ -6,5 +6,6 @@ public class Demo{
         System.out.println("独孤九剑！四剑式！神龙摆尾！");
 		System.out.println("独孤九剑！总决式！无招胜有招！");
 		System.out.println("独孤九剑！破剑式！破解江湖各大门派的所有剑法！");
+		System.out.println("独孤九剑！破刀式！破解江湖各大门派的所有刀法！");
 	}
 }
